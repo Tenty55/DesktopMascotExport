@@ -1,1 +1,17 @@
 # DesktopMascot
+
+A simple desktop mascot to be interactable on your desktop using Live2D and Unity.
+Its simple as to run the test.exe.
+
+## controls:
+>+ middle mouse click : eye tracks mouse
+>+ left mouse click :   interaction
+
+## current problems:
+>+ cannot reposition when fully booted, to bypass have to reposition the window whilst loading
+
+## changelogs:
+
+>version 1.00
+>+ started the unity project
+>+ added idle and clicked animation
