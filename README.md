@@ -1,6 +1,6 @@
 # DesktopMascot
 
-A simple desktop mascot to be interactable on your desktop using Live2D and Unity.
+A simple desktop mascot to be interactable on your desktop using Live2D and Unity. <br />
 Its simple as to run the test.exe.
 
 ## controls:
@@ -15,3 +15,5 @@ Its simple as to run the test.exe.
 >version 1.00
 >+ started the unity project
 >+ added idle and clicked animation
+>+ enable translucent bg + borderless
+>+ found a way to display the model on top of other programs at all times
